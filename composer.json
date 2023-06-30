@@ -1,6 +1,6 @@
 {
-    "name": "dokterkepin/belajar-php-mvc",
-    "description": "Belajar PHP MVC - Programmer Zaman Now",
+    "name": "dokterkepin/php-login-management",
+    "description": "Latihan Membuat Web Login Management PHP",
     "type": "project",
     "authors": [
         {
