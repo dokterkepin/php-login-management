@@ -1,7 +1,7 @@
 <div class="container mx-lg-5 mt-5">
     <div class="card mt-5" style="width: 30rem;">
         <div class="card-body">
-            <h5 class="card-title">Welcome, Login New User</h5>
+            <h5 class="card-title">Login</h5>
             <form class="" method="post" action="/users/login">
                 <div class="mb-3">
                     <label for="id" class="form-label">Id</label>

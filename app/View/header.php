@@ -17,7 +17,7 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0 mr">
                 <li class="nav-item">
-                    <a class="nav-link active text-light fw-bolder " aria-current="page" href="#">Home</a>
+                    <a class="nav-link active text-light fw-bolder " aria-current="page" href="/">Home</a>
                 </li>
 
                 <li class="nav-item ms-lg-3">
@@ -25,7 +25,7 @@
                 </li>
 
                 <li class="nav-item ms-lg-3">
-                    <a class="nav-link active text-light fw-bolder" aria-current="page" href="/user/login">Login</a>
+                    <a class="nav-link active text-light fw-bolder" aria-current="page" href="/users/login">Login</a>
                 </li>
             </ul>
             <form class="d-flex" role="search">

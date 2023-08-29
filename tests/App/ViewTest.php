@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace dokterkepin\Belajar\PHP\MVC\App;
 
 use dokterkepin\Belajar\PHP\MVC\App\View;
 use PHPUnit\Framework\TestCase;
